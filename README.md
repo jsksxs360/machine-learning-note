@@ -4,13 +4,14 @@
 ### 目录（更新中）
 
 - 
-  - [第 1 章 数学基础](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/raw/master/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)]
-  - 第 2 章 机器学习基础
+  - [第 1 章 数学基础](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/blob/master/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%AC%AC%201%20%E7%AB%A0%20%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)]
+  - 第 2 章 机器学习基础 [PDF]
 - **第一部分 监督学习**
-  - 第 3 章 线性模型
-  - 第 4 章 非线性模型
-  - 第 5 章 神经网络：多层感知器
-  - 第 6 章 支持向量机
+  - [第 3 章 线性模型](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%203%20%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/%E7%AC%AC%203%20%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/blob/master/%E7%AC%AC%203%20%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/%E7%AC%AC%203%20%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.pdf)]
+  - [第 4 章 非线性模型](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%204%20%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/%E7%AC%AC%204%20%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/blob/master/%E7%AC%AC%204%20%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/%E7%AC%AC%204%20%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.pdf)]
+  - [第 5 章 神经网络：多层感知器](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%205%20%E7%AB%A0%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8/%E7%AC%AC%205%20%E7%AB%A0%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/blob/master/%E7%AC%AC%205%20%E7%AB%A0%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8/%E7%AC%AC%205%20%E7%AB%A0%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8.pdf)]
+  - [第 6 章 支持向量机](https://jsksxs360.github.io/machine-learning-note/%E7%AC%AC%206%20%E7%AB%A0%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E7%AC%AC%206%20%E7%AB%A0%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.html) [[PDF](https://github.com/jsksxs360/machine-learning-note/blob/master/%E7%AC%AC%206%20%E7%AB%A0%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E7%AC%AC%206%20%E7%AB%A0%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.pdf)]
+  - 第 7 章 决策树和森林 [PDF]
 
 ### 参考书籍
 
